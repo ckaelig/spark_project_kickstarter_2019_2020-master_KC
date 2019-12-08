@@ -1,8 +1,14 @@
-<<<<<<< HEAD
-# Spark project MS Big Data Télécom : Kickstarter campaigns
+# Spark project MS Big Data Télécom : Kickstarter campaigns 2019-2020
+# Kaelig Castor
 
-Spark project for MS Big Data Telecom based on Kickstarter campaigns 2019-2020
-=======
-# spark_project_kickstarter_2019_2020-master_KC
-spark in scala / machine learning pipeline
->>>>>>> ca29a7abee91d67b9e9bbd7089cdb1d831d617d9
+Build and Run :
+
+TP1 (WordCount in scala) :
+# ./build_and_submit.sh WordCount
+
+TP2 (Data Cleaning and Pre-Processing in scala) :
+# ./build_and_submit.sh Preprocessor
+
+TP3 (Machine Learning Pipeline, Grid Search, Cross-Validation)
+# ./build_and_submit.sh Trainer
+
