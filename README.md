@@ -21,7 +21,7 @@
 |           0|        0.0| 4963|
 
 Modèle simple
-f1score du modele simple (avant grid search) sur les donnees = 0.615
+f1score du modele simple (avant grid search) sur les donnees = **0.615**
 
 |final_status|predictions|count|
 |------------|-----------|-----|
@@ -31,4 +31,4 @@ f1score du modele simple (avant grid search) sur les donnees = 0.615
 |           0|        0.0| 4332|
 
 Modèle paramétrique (grid search)
-f1score du modele paramétrique (avec grid search) sur les données = 0.637
+f1score du modele paramétrique (avec grid search) sur les données = **0.637**
